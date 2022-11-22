@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="default" viewBox="0 0 18 18">
+  <path d="M0 0h9v3H0zM0 7h18v3H0zM0 14h18v3H0zM15 3l3-3h-6"/>
+  </symbol>
+  <symbol id="mySymbol" viewBox="0 0 18 18">
+    <circle cx="9" cy="9" r="5"/>
+  </symbol>
+</svg>
