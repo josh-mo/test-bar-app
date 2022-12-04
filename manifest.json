@@ -1,9 +1,9 @@
 {
-  "name": "test_bar",
+  "name": "test_bar_superloooooooooooooooooooooooooooooooooooooooooooong",
   "author": {
     "name": "josh",
     "email": "josh.mo@zendesk.com",
-    "url": "www.zenesk.com"
+    "url": "https://www.github.com/"
   },
   "defaultLocale": "en",
   "private": true,
